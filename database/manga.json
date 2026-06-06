@@ -1,0 +1,43 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Dragon Devouring Mage, Yongsaing",
+  "status": "Ongoing",
+  "author": "Jegalryang",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Martial arts master and dragon slayer, Eugene, faces his ultimate demise against the evil Dragon King. In his final moments, a mysterious artifact activates, sending him back in time to his younger days. Armed with the memories of his past life and his unparalleled martial arts techniques, Eugene sets out to alter destiny, grow exponentially stronger, and prevent the apocalypse brought by the Dragon King.",
+  "cover_url": "https://raw.githubusercontent.com/ShiroDex/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The End and The Beginning",
+      "images": [
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "A New Chance",
+      "images": [
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
+        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
+      ]
+    }
+  ]
+}
