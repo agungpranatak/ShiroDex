@@ -1,43 +1,81 @@
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Dragon Devouring Mage, Yongsaing",
-  "status": "Ongoing",
-  "author": "Jegalryang",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Martial arts master and dragon slayer, Eugene, faces his ultimate demise against the evil Dragon King. In his final moments, a mysterious artifact activates, sending him back in time to his younger days. Armed with the memories of his past life and his unparalleled martial arts techniques, Eugene sets out to alter destiny, grow exponentially stronger, and prevent the apocalypse brought by the Dragon King.",
-  "cover_url": "https://raw.githubusercontent.com/ShiroDex/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The End and The Beginning",
-      "images": [
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "A New Chance",
-      "images": [
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
-        "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "Dragon Devouring Mage, Yongsaing",
+    "status": "Ongoing",
+    "author": "Jegalryang",
+    "artist": "Studio Inus",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Regression"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 4.8,
+    "synopsis": "Martial arts master and dragon slayer, Eugene, faces his ultimate demise against the evil Dragon King. In his final moments, a mysterious artifact activates, sending him back in time to his younger days. Armed with the memories of his past life and his unparalleled martial arts techniques, Eugene sets out to alter destiny, grow exponentially stronger, and prevent the apocalypse brought by the Dragon King.",
+    "cover_url": "https://raw.githubusercontent.com/ShiroDex/assets/main/covers/a-dragonslayers-peerless-regression.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The End and The Beginning",
+        "images": [
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "A New Chance",
+        "images": [
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004.jpg",
+          "https://raw.githubusercontent.com/ShiroDex/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "manga_id": "academy-s-genius-swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "Manga",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Komik Academy s Genius Swordmaster otomatis ditambahkan dari repositori kategori Fantasy.",
+    "cover_url": "https://ui-avatars.com/api/?name=Academy%20s%20Genius%20Swordmaster&background=222222&color=39ff14&size=400&font-size=0.33",
+    "cbz_url": "https://raw.githubusercontent.com/agungpranatak/ShiroDex/main/Fantasy/Academy_s%20Genius%20Swordmaster.cbz",
+    "chapters": []
+  },
+  {
+    "manga_id": "a-cadet-becomes-a-prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "alternative_title": "",
+    "status": "Ongoing",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [
+      "Isekai"
+    ],
+    "type": "Manga",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Komik A Cadet Becomes a Prophet otomatis ditambahkan dari repositori kategori Isekai.",
+    "cover_url": "https://ui-avatars.com/api/?name=A%20Cadet%20Becomes%20a%20Prophet&background=222222&color=39ff14&size=400&font-size=0.33",
+    "cbz_url": "https://raw.githubusercontent.com/agungpranatak/ShiroDex/main/Isekai/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "chapters": []
+  }
+]
